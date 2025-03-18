@@ -1,0 +1,233 @@
+[admin.py:29] - 2025-03-17 20:46:07,766 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:559] - 2025-03-17 20:46:07,766 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2025-03-17 20:46:07,780 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\diddy\\AppData\\Local\\Programs\\Python\\Python313\\pythonw.exe', 'C:\\Users\\diddy\\Downloads\\Luna-Grabber-main\\Luna-Grabber-main\\Luna-Grabber\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2025-03-17 20:46:07,781 - INFO - Running command 'C:\\Users\\diddy\\AppData\\Local\\Programs\\Python\\Python313\\pythonw.exe' - 'C:\\Users\\diddy\\Downloads\\Luna-Grabber-main\\Luna-Grabber-main\\Luna-Grabber\\Luna-Grabber-main\\builder.pyw'
+[admin.py:29] - 2025-03-17 20:46:08,303 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,364 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,364 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,364 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,364 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,365 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,365 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,365 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,365 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,365 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,365 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,365 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,365 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,365 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,365 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,365 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,365 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,366 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,366 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,366 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,366 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,366 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,366 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,366 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2025-03-17 20:46:08,366 - DEBUG - STREAM b'IDAT' 91 1063
+[connectionpool.py:1049] - 2025-03-17 20:48:14,843 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:544] - 2025-03-17 20:48:15,262 - DEBUG - https://discord.com:443 "GET /api/webhooks/1348597646251528222/mJkyS0-gO1HLLFqQCBsEegiCecD48hGes7kbFGeuMw2HpGzJedfxDI2TkpsWalIndS80 HTTP/1.1" 200 None
+[connectionpool.py:1049] - 2025-03-17 20:50:36,823 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:544] - 2025-03-17 20:50:37,236 - DEBUG - https://discord.com:443 "GET /api/webhooks/1348597646251528222/mJkyS0-gO1HLLFqQCBsEegiCecD48hGes7kbFGeuMw2HpGzJedfxDI2TkpsWalIndS80 HTTP/1.1" 200 None
+[builder.pyw:420] - 2025-03-17 20:50:38,230 - INFO - Retrieved filename: svchost.exe
+[builder.pyw:386] - 2025-03-17 20:50:38,230 - INFO - Changed filetype: .py
+[builder.pyw:440] - 2025-03-17 20:50:38,231 - INFO - Successfully changed config
+[builder.pyw:522] - 2025-03-17 20:50:38,352 - INFO - Successfully obfuscated file: svchost.exe.py
+[admin.py:29] - 2025-03-17 20:53:15,856 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:559] - 2025-03-17 20:53:15,856 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2025-03-17 20:53:15,878 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\diddy\\AppData\\Local\\Programs\\Python\\Python313\\pythonw.exe', 'C:\\Users\\diddy\\Downloads\\Luna-Grabber-main\\Luna-Grabber-main\\Luna-Grabber\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2025-03-17 20:53:15,878 - INFO - Running command 'C:\\Users\\diddy\\AppData\\Local\\Programs\\Python\\Python313\\pythonw.exe' - 'C:\\Users\\diddy\\Downloads\\Luna-Grabber-main\\Luna-Grabber-main\\Luna-Grabber\\Luna-Grabber-main\\builder.pyw'
+[admin.py:29] - 2025-03-17 20:53:16,371 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,475 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,475 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,475 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,475 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,475 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,475 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,476 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,476 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,476 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,476 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,476 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,476 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,476 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,476 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,476 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,476 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,476 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,476 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,476 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,477 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,477 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,477 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,477 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2025-03-17 20:53:16,477 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.pyw:285] - 2025-03-17 20:53:23,863 - ERROR - Couldn't verify webhook: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+[admin.py:92] - 2025-03-17 21:01:08,366 - INFO - Process handle <PyHANDLE:1340> returned code 1
+[admin.py:29] - 2025-03-18 14:57:26,228 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:559] - 2025-03-18 14:57:26,228 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2025-03-18 14:57:26,237 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\diddy\\AppData\\Local\\Programs\\Python\\Python313\\pythonw.exe', 'C:\\Users\\diddy\\Downloads\\Luna-Grabber-main\\Luna-Grabber-main\\Luna-Grabber\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2025-03-18 14:57:26,237 - INFO - Running command 'C:\\Users\\diddy\\AppData\\Local\\Programs\\Python\\Python313\\pythonw.exe' - 'C:\\Users\\diddy\\Downloads\\Luna-Grabber-main\\Luna-Grabber-main\\Luna-Grabber\\Luna-Grabber-main\\builder.pyw'
+[admin.py:29] - 2025-03-18 14:57:26,715 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,765 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,765 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,765 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,765 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,765 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,765 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,765 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,765 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,765 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,766 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,766 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,766 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,766 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,766 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,766 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,766 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,766 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,766 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,766 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,766 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,766 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,766 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,767 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2025-03-18 14:57:26,767 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.pyw:285] - 2025-03-18 14:58:05,692 - ERROR - Couldn't verify webhook: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+[connectionpool.py:1049] - 2025-03-18 14:58:22,990 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:544] - 2025-03-18 14:58:23,429 - DEBUG - https://discord.com:443 "GET /api/webhooks/1348597646251528222/mJkyS0-gO1HLLFqQCBsEegiCecD48hGes7kbFGeuMw2HpGzJedfxDI2TkpsWalIndS80 HTTP/1.1" 200 None
+[builder.pyw:420] - 2025-03-18 14:58:42,756 - INFO - Retrieved filename: cmd
+[builder.pyw:389] - 2025-03-18 14:58:42,756 - INFO - Changed filetype: File Options
+[builder.pyw:389] - 2025-03-18 14:58:42,756 - INFO - Changed filetype: File Options
+[admin.py:29] - 2025-03-18 14:59:28,203 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:559] - 2025-03-18 14:59:28,203 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2025-03-18 14:59:28,212 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\diddy\\AppData\\Local\\Programs\\Python\\Python313\\pythonw.exe', 'C:\\Users\\diddy\\Downloads\\Luna-Grabber-main\\Luna-Grabber-main\\Luna-Grabber\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2025-03-18 14:59:28,213 - INFO - Running command 'C:\\Users\\diddy\\AppData\\Local\\Programs\\Python\\Python313\\pythonw.exe' - 'C:\\Users\\diddy\\Downloads\\Luna-Grabber-main\\Luna-Grabber-main\\Luna-Grabber\\Luna-Grabber-main\\builder.pyw'
+[admin.py:29] - 2025-03-18 14:59:28,683 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,731 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,732 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,732 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,732 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,732 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,732 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,732 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,732 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,732 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,732 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,733 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,733 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,733 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,733 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,733 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,733 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,733 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,733 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,733 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,733 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,733 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,733 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,733 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2025-03-18 14:59:28,733 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.pyw:285] - 2025-03-18 15:00:05,181 - ERROR - Couldn't verify webhook: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+[connectionpool.py:1049] - 2025-03-18 15:00:07,960 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:544] - 2025-03-18 15:00:08,746 - DEBUG - https://discord.com:443 "GET /api/webhooks/1348597646251528222/mJkyS0-gO1HLLFqQCBsEegiCecD48hGes7kbFGeuMw2HpGzJedfxDI2TkpsWalIndS80 HTTP/1.1" 200 None
+[connectionpool.py:1049] - 2025-03-18 15:00:09,579 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:544] - 2025-03-18 15:00:09,996 - DEBUG - https://discord.com:443 "GET /api/webhooks/1348597646251528222/mJkyS0-gO1HLLFqQCBsEegiCecD48hGes7kbFGeuMw2HpGzJedfxDI2TkpsWalIndS80 HTTP/1.1" 200 None
+[builder.pyw:420] - 2025-03-18 15:00:12,088 - INFO - Retrieved filename: TempSpoofer
+[builder.pyw:386] - 2025-03-18 15:00:12,088 - INFO - Changed filetype: .py
+[builder.pyw:440] - 2025-03-18 15:00:12,090 - INFO - Successfully changed config
+[builder.pyw:522] - 2025-03-18 15:00:12,211 - INFO - Successfully obfuscated file: TempSpoofer.py
+[admin.py:92] - 2025-03-18 15:05:12,129 - INFO - Process handle <PyHANDLE:1344> returned code 0
+[builder.pyw:420] - 2025-03-18 15:05:32,074 - INFO - Retrieved filename: TempSpoofer
+[builder.pyw:389] - 2025-03-18 15:05:32,074 - INFO - Changed filetype: pyinstaller
+[builder.pyw:389] - 2025-03-18 15:05:32,074 - INFO - Changed filetype: pyinstaller
+[builder.pyw:440] - 2025-03-18 15:05:32,075 - INFO - Successfully changed config
+[builder.pyw:522] - 2025-03-18 15:05:32,191 - INFO - Successfully obfuscated file: TempSpoofer.py
+[builder.pyw:486] - 2025-03-18 15:06:04,510 - INFO - Successfully compiled TempSpoofer.exe with pyinstaller
+[builder.pyw:451] - 2025-03-18 15:06:07,267 - INFO - Successfully pumped file: TempSpoofer.exe
+[builder.pyw:498] - 2025-03-18 15:06:07,272 - INFO - Successfully removed directory: ./build
+[builder.pyw:507] - 2025-03-18 15:06:07,272 - INFO - Successfully removed file: ./TempSpoofer.spec
+[builder.pyw:507] - 2025-03-18 15:06:07,272 - INFO - Successfully removed file: ./TempSpoofer.py
+[builder.pyw:507] - 2025-03-18 15:06:07,272 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.pyw:420] - 2025-03-18 15:06:30,884 - INFO - Retrieved filename: TempSpoofer
+[builder.pyw:389] - 2025-03-18 15:06:30,884 - INFO - Changed filetype: pyinstaller
+[builder.pyw:389] - 2025-03-18 15:06:30,884 - INFO - Changed filetype: pyinstaller
+[builder.pyw:440] - 2025-03-18 15:06:30,884 - INFO - Successfully changed config
+[builder.pyw:522] - 2025-03-18 15:06:31,001 - INFO - Successfully obfuscated file: TempSpoofer.py
+[builder.pyw:486] - 2025-03-18 15:07:05,094 - INFO - Successfully compiled TempSpoofer.exe with pyinstaller
+[builder.pyw:451] - 2025-03-18 15:07:06,192 - INFO - Successfully pumped file: TempSpoofer.exe
+[builder.pyw:498] - 2025-03-18 15:07:06,197 - INFO - Successfully removed directory: ./build
+[builder.pyw:507] - 2025-03-18 15:07:06,198 - INFO - Successfully removed file: ./TempSpoofer.spec
+[builder.pyw:507] - 2025-03-18 15:07:06,198 - INFO - Successfully removed file: ./TempSpoofer.py
+[builder.pyw:507] - 2025-03-18 15:07:06,198 - INFO - Successfully removed file: ./tools/upx.exe
+[connectionpool.py:1049] - 2025-03-18 15:07:38,961 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:544] - 2025-03-18 15:07:39,396 - DEBUG - https://discord.com:443 "GET /api/webhooks/1348597646251528222/mJkyS0-gO1HLLFqQCBsEegiCecD48hGes7kbFGeuMw2HpGzJedfxDI2TkpsWalIndS80 HTTP/1.1" 200 None
+[builder.pyw:420] - 2025-03-18 15:09:22,097 - INFO - Retrieved filename: TempSpoofer
+[builder.pyw:386] - 2025-03-18 15:09:22,097 - INFO - Changed filetype: .py
+[builder.pyw:440] - 2025-03-18 15:09:22,098 - INFO - Successfully changed config
+[builder.pyw:522] - 2025-03-18 15:09:22,217 - INFO - Successfully obfuscated file: TempSpoofer.py
+[builder.pyw:451] - 2025-03-18 15:09:22,616 - INFO - Successfully pumped file: TempSpoofer.py
+[connectionpool.py:1049] - 2025-03-18 15:26:42,334 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:544] - 2025-03-18 15:26:42,751 - DEBUG - https://discord.com:443 "GET /api/webhooks/1348597646251528222/mJkyS0-gO1HLLFqQCBsEegiCecD48hGes7kbFGeuMw2HpGzJedfxDI2TkpsWalIndS80 HTTP/1.1" 200 None
+[admin.py:92] - 2025-03-18 17:15:51,561 - INFO - Process handle <PyHANDLE:1332> returned code 0
+[admin.py:29] - 2025-03-18 17:27:32,354 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:559] - 2025-03-18 17:27:32,354 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2025-03-18 17:27:32,364 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\diddy\\AppData\\Local\\Programs\\Python\\Python313\\pythonw.exe', 'C:\\Users\\diddy\\Downloads\\Luna-Grabber-main\\Luna-Grabber-main\\Luna-Grabber\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2025-03-18 17:27:32,365 - INFO - Running command 'C:\\Users\\diddy\\AppData\\Local\\Programs\\Python\\Python313\\pythonw.exe' - 'C:\\Users\\diddy\\Downloads\\Luna-Grabber-main\\Luna-Grabber-main\\Luna-Grabber\\Luna-Grabber-main\\builder.pyw'
+[admin.py:29] - 2025-03-18 17:27:32,853 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,906 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,906 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,906 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,906 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,906 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,906 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,906 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,906 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,906 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,907 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,907 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,907 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,907 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,907 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,907 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,907 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,907 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,907 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,907 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,907 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,907 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,907 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,908 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2025-03-18 17:27:32,908 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.pyw:285] - 2025-03-18 17:28:44,039 - ERROR - Couldn't verify webhook: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+[builder.pyw:420] - 2025-03-18 17:33:09,010 - INFO - Retrieved filename: EXM-Tweaker-cracked
+[builder.pyw:389] - 2025-03-18 17:33:09,010 - INFO - Changed filetype: pyinstaller
+[builder.pyw:389] - 2025-03-18 17:33:09,010 - INFO - Changed filetype: pyinstaller
+[builder.pyw:440] - 2025-03-18 17:33:09,011 - INFO - Successfully changed config
+[builder.pyw:522] - 2025-03-18 17:33:09,132 - INFO - Successfully obfuscated file: EXM-Tweaker-cracked.py
+[builder.pyw:486] - 2025-03-18 17:33:42,199 - INFO - Successfully compiled EXM-Tweaker-cracked.exe with pyinstaller
+[builder.pyw:451] - 2025-03-18 17:33:44,173 - INFO - Successfully pumped file: EXM-Tweaker-cracked.exe
+[builder.pyw:498] - 2025-03-18 17:33:44,178 - INFO - Successfully removed directory: ./build
+[builder.pyw:507] - 2025-03-18 17:33:44,179 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.pyw:507] - 2025-03-18 17:33:44,179 - INFO - Successfully removed file: ./EXM-Tweaker-cracked.spec
+[builder.pyw:507] - 2025-03-18 17:33:44,179 - INFO - Successfully removed file: ./EXM-Tweaker-cracked.py
+[connectionpool.py:1049] - 2025-03-18 17:36:39,715 - DEBUG - Starting new HTTPS connection (1): discordapp.com:443
+[connectionpool.py:544] - 2025-03-18 17:36:40,123 - DEBUG - https://discordapp.com:443 "GET /api/webhooks/1348597646251528222/mJkyS0-gO1HLLFqQCBsEegiCecD48hGes7kbFGeuMw2HpGzJedfxDI2TkpsWalIndS80 HTTP/1.1" 200 None
+[builder.pyw:420] - 2025-03-18 17:36:45,125 - INFO - Retrieved filename: EXM-Tweaker-cracked
+[builder.pyw:389] - 2025-03-18 17:36:45,125 - INFO - Changed filetype: pyinstaller
+[builder.pyw:389] - 2025-03-18 17:36:45,125 - INFO - Changed filetype: pyinstaller
+[builder.pyw:440] - 2025-03-18 17:36:45,126 - INFO - Successfully changed config
+[builder.pyw:522] - 2025-03-18 17:36:45,286 - INFO - Successfully obfuscated file: EXM-Tweaker-cracked.py
+[builder.pyw:486] - 2025-03-18 17:37:18,769 - INFO - Successfully compiled EXM-Tweaker-cracked.exe with pyinstaller
+[builder.pyw:451] - 2025-03-18 17:37:20,259 - INFO - Successfully pumped file: EXM-Tweaker-cracked.exe
+[builder.pyw:498] - 2025-03-18 17:37:20,264 - INFO - Successfully removed directory: ./build
+[builder.pyw:507] - 2025-03-18 17:37:20,265 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.pyw:507] - 2025-03-18 17:37:20,265 - INFO - Successfully removed file: ./EXM-Tweaker-cracked.spec
+[builder.pyw:507] - 2025-03-18 17:37:20,265 - INFO - Successfully removed file: ./EXM-Tweaker-cracked.py
+[connectionpool.py:1049] - 2025-03-18 17:38:12,645 - DEBUG - Starting new HTTPS connection (1): discordapp.com:443
+[connectionpool.py:544] - 2025-03-18 17:38:13,052 - DEBUG - https://discordapp.com:443 "GET /api/webhooks/1348597646251528222/mJkyS0-gO1HLLFqQCBsEegiCecD48hGes7kbFGeuMw2HpGzJedfxDI2TkpsWalIndS80 HTTP/1.1" 200 None
+[connectionpool.py:1049] - 2025-03-18 17:50:17,156 - DEBUG - Starting new HTTPS connection (1): discordapp.com:443
+[connectionpool.py:544] - 2025-03-18 17:50:17,562 - DEBUG - https://discordapp.com:443 "GET /api/webhooks/1348597646251528222/mJkyS0-gO1HLLFqQCBsEegiCecD48hGes7kbFGeuMw2HpGzJedfxDI2TkpsWalIndS80 HTTP/1.1" 200 None
+[admin.py:92] - 2025-03-18 17:50:21,206 - INFO - Process handle <PyHANDLE:1340> returned code 0
